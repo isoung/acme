@@ -1,0 +1,27 @@
+.acme-weather-card {
+  cursor: pointer;
+  height: 200px;
+  width: 300px;
+}
+
+.acme-weather-card__badge {
+  margin-right: 5px;
+  padding: 5px;
+}
+
+.acme-weather-card__badge-text {
+  background-color: #efcb68;
+}
+
+.acme-weather-card__badge-email {
+  background-color: #e1efe6;
+  color: #000;
+
+  &:hover {
+    color: #000;
+  }
+}
+
+.acme-weather-card__badge-call {
+  background-color: #5b5f97;
+}
