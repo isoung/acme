@@ -18,7 +18,7 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.1",
-    "victory": "^32.3.6"
+    "victory": "^36.6.8"
   },
   "devDependencies": {
     "@types/classnames": "^2.2.9",
